@@ -1,0 +1,7 @@
+Zadanie
+Z1: Proszę zaimplementować metodę eliminacji Gaussa z częściowym wyborem elementu podstawowego (obowiązkowe).
+Algorytmy Numeryczne – Zadanie 2 7
+Z2: Proszę zbudować układ równań liniowych w zależności od zadanego parametru N
+opisujący funkcję φ(x, z, t) zgodnie z opisem powyżej i go rozwiązać (obowiązkowe).
+Z3: W implementacji proszę uwzględnić, że macierze występujące w zadaniu są macierzami rzadkimi i zapamiętywać wyłącznie elementy niezerowe (+20% – nieobowiązkowe).
+Z4: Proszę porównać swoją implementację rozwiązywania układu równań z gotową implementacją biblioteczną (+10% – nieobowiązkowe).
