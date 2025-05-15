@@ -1,0 +1,10 @@
+Zweryfikuj następujące hipotezy:
+H1: Niezależnie od wyboru n obliczone współrzędne vn są dokładnie równe współrzędnym v0, czyli (1, 0).
+H2: Suma wszystkich wektorów wi daje dokładnie wektor zerowy.
+H3: Sumy współrzędnych wektorów wi można policzyć osobno, a następująca zmiana
+kolejności sumowania sprawi, że wynik będzie bliższy wektorowi zerowemu: niech
+X+ oznacza zbiór dodatnich współrzędnych x-owych wektorów wi, a X- zbiór
+współrzędnych ujemnych; obliczamy Sx+ sumując elementy zbioru X+ w kolejności
+od najmniejszej do największej oraz Sx- sumując elementy zbioru X- w kolejności
+od największej do najmniejszej; dodajemy do siebie Sx+ i Sx-. Dla współrzędnych
+y postępujemy analogicznie
